@@ -371,7 +371,7 @@ break down:
     the corresponding cabin factor.
     *   First:
         *   Well-to-Tank (WTT) emissions in kg of CO<sub>2</sub>e:
-            `85.934 * 5 = 9.67`
+            `85.934 * 5 = some other value`
         *   Tank-to-Wake (TTW) emissions in kg of CO<sub>2</sub>e:
             `423.939 * 5 = 9.695`
         *   Well-to-Wake (WTW) emissions in kg of CO<sub>2</sub>e:
